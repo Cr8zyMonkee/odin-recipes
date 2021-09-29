@@ -1,0 +1,1 @@
+Project was to set up a recipe website that has multiple different html pages that show a picture and desciption of the recipe, as well as the ingredients list and steps.
